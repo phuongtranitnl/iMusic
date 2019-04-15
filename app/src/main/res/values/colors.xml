@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorSecondary">#ffffff</color>
+
+    <!--App Color-->
+    <!--https://material.io/tools/color/#!/?view.left=1&view.right=0&primary.color=651FFF&secondary.color=FFB74D&secondary.text.color=263238-->
+    <color name="primaryColor">#651fff</color>
+    <color name="primaryLightColor">#a255ff</color>
+    <color name="primaryDarkColor">#0100ca</color>
+    <color name="secondaryColor">#ffb74d</color>
+    <color name="secondaryLightColor">#ffe97d</color>
+    <color name="secondaryDarkColor">#c88719</color>
+    <color name="primaryTextColor">#ffffff</color>
+    <color name="secondaryTextColor">#263238</color>
+
+    <color name="bgSplashScreenColor">#D8D8D8</color>
+
+    <string name="tab_text_1">Playing</string>
+    <string name="tab_text_2">Lyrics</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="action_settings">Settings</string>
+</resources>

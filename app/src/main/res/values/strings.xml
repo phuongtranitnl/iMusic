@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">CHP Player</string>
+    <string name="app_team">CHP Team</string>
+    <string name="app_version">Version: 1.0</string>
+
+    <string name="aboutApp">About App</string>
+    <string name="aboutUs">About Us</string>
+    <string name="search">Search</string>
+
+    <string name="playBarImage">PlayBar Image</string>
+    <string name="playBarInfo">PlayBar Info</string>
+    <string name="playBarSong">PlayBar Song Name</string>
+    <string name="playBarArtist">PlayBar Artist Name</string>
+    <string name="playBarPrev">PlayBar Button Prev</string>
+    <string name="playBarPlay">PlayBar Button Play</string>
+    <string name="playBarNext">PlayBar Button Next</string>
+
+    <string name="itemGridTotal">10 songs</string>
+
+    <string name="emptyItemImage">Empty Image</string>
+    <string name="emptyItemTitle">Empty Title</string>
+    <string name="emptyItemContent">Empty Content</string>
+    <string name="searchKey">Enter your key...</string>
+</resources>
